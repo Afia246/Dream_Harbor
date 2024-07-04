@@ -109,7 +109,7 @@ const RegisterPage = () => {
             required
           />
           <label htmlFor="image">
-            <img src="C:\Users\HP\Desktop\Room Heaven\client\public\assets\download.png" alt="add profile photo" />
+            <img src="/assets/addImage.png" alt="add profile photo" />
             <p>Upload Your Photo</p>
           </label>
 
